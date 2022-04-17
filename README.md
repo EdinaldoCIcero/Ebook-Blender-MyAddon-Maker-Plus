@@ -8,7 +8,7 @@ Um Ebook ensinando á como criar um addon simples para o blender 2.79b
 
 
 ----------------------------------------------------------------------- 
-# Blender Documation Api 2.79 
+# Blender Documentation Api 2.79 
 
 https://docs.blender.org/api/2.79/search.html?q=bpy.data.objects&check_keywords=yes&area=default
 
